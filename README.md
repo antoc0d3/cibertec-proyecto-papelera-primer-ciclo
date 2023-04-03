@@ -1,5 +1,5 @@
 
-El fin de este proyecto es con el propósito educativo puedes hacer lo que quieras con el proyecto, cabe recalcar que es una proyecto con fines  educativos y no para llevarlo a producción. saludos!!
+Proyecto educativo - Cibertec año 2016.
 
 Login
 -------------
